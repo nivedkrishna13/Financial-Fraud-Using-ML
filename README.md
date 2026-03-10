@@ -43,17 +43,8 @@ The project explores both traditional machine learning models and deep learning 
 - Within the deep learning models, the Convolutional Neural Network (CNN) showed promising results for fraud detection.
 - Detailed analysis and interpretation of model performance, including confusion matrices and ROC curves.
 
-## Contributors
-- **Saket Kulkarni**
-  - [GitHub](https://github.com/StrangeCoder1729)
-  - [LinkedIn](https://www.linkedin.com/in/saketkulkarni1729)
-  
-- **Tirth Mehta**
-  - [GitHub](https://github.com/TirthM21)
-  - [LinkedIn](https://www.linkedin.com/in/mehta-tirth/)
 
-## Deployed Model
-- The trained model has been deployed using Flask for inference. Access the deployment repository [here](https://github.com/StrangeCoder1729/FinancialFraudDetector).
+
 
  
  
